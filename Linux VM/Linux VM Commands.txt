@@ -1,0 +1,19 @@
+sudo su
+yum update -y
+yum install httpd -y
+Cd /var/www/html
+echo "Dr Gohel & Dr Raval Are The Best" > index.html
+service httpd start
+chkconfig httpd on
+
+#!/bin/bash
+
+
+Addl. cmds: 
+cls 
+pwd
+ls
+cat
+
+
+
