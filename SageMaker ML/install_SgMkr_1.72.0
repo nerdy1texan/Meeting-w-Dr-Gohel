@@ -1,0 +1,1 @@
+pip install sagemaker==1.72.0   #installs 1.72.0 version of sagemaker for functionality
